@@ -13,6 +13,37 @@ a {
   text-decoration: none;
 }
 
+b, strong {
+  font-weight: 800;
+  color: #ffffff;
+}
+section {
+  width: 60rem;
+  padding: 0 1.5rem;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+section h3 {
+  font-size: 2rem;
+  margin-bottom: 1.3rem;
+  margin-top: 3.5rem;
+}
+
+section p {
+  margin: 0 0 1em 0;
+  line-height: 1.95;
+}
+
+section ul{
+  list-style: disc;
+  margin-bottom: 1rem;
+}
+section ul li{
+  line-height: 1.95;
+  margin: 0.5rem 0 0 2rem;
+}
+
 .title {
   margin: 0;
   margin-bottom: 16px;
@@ -73,11 +104,9 @@ a {
 }
 .div-row-footer {
   width: 60rem;
-  padding: 0 1.5rem;
+  padding: 1rem 1.5rem;
   max-width: 100%;
   margin: 0 auto;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
   display: flex;
   justify-content: end;
 }

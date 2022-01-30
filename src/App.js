@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -9,36 +8,289 @@ function App() {
           <div class="div-row-header">
             <div class="div-column-header">
               <div class="title">
-                <h2>Programador Frontend</h2>
+                <h1>Programador Frontend</h1>
               </div>
-              <div class="subtitle">Portfolio de Virgilio Nayal</div>
+              <div class="subtitle">
+                <h2>Portfolio de Virgilio Nayal</h2>
+              </div>
             </div>
             <ul class="ul-header" id="navigation">
               <li>
-                <a href="/sobre-mi" target="_self">
-                  Sobre mí
+                <a href="#mi-experiencia" target="_self">
+                  Mi experiencia
                 </a>
               </li>
               <li>
-                <a href="/contacto" target="_self">
-                  Contacto
+                <a href="#lo-que-se" target="_self">
+                 Lo que sé
+                </a>
+              </li>
+              <li>
+                <a href="#proyectos" target="_self">
+                  Proyectos
                 </a>
               </li>
             </ul>
           </div>
         </div>
       </header>
+      <section>
+        <h3>Sobre mí</h3>
+        <p>
+          Hola, me llamo Virgilio. Soy de Marbella aunque no lo parezca, porque
+          mis padres son de origen Filipino. Soy programador Frontend desde
+          2017. Tengo 27 años y desde que conocí la programación, quiero dedicar
+          mi vida en ello y tengo como objetivo en convertirme en un programador
+          ejemplar.
+        </p>
+
+        <p>
+          Este sitio está hecho con{" "}
+          <a href="https://es.reactjs.org/" target="_self">
+            React
+          </a>
+          , es una librería de JavaScript para crear interfaces de usuario de
+          forma sencilla. Aunque mi portfolio es una Landing Page, sé que no es
+          lo más óptimo para crear este tipo de páginas pero tengo como{" "}
+          <strong>proyecto personal</strong> añadir algunos juegos sencillos
+          para probar si funcionan con esta biblioteca y así aprovecho a hacer
+          mi portfolio mientras tanto.
+        </p>
+
+        <h3 id="mi-experiencia">Mi experiencia</h3>
+        <p>
+          Acabé mi carrera de Sistema de Telecomunicaciones sin saber realmente
+          a qué dedicarme, en su dia eché curriculums por todos lados para
+          encontrar urgentemente un trabajo, una empresa pequeñita{" "}
+          <a
+            href="https://www.linkedin.com/company/inmo.design/about/"
+            target="_self"
+          >
+            Inmo.Design
+          </a>{" "}
+          aceptó enseñarme a programar porque necesitaban ayuda, la empresa se
+          dedicaban a hacer páginas web para la mayoria de las inmobiliarias en
+          Marbella.{" "}
+          <strong>
+            Desde entonces me enamoré de la programación y supe que queria
+            dedicarme a ello
+          </strong>
+          .
+        </p>
+
+        <p>
+          Así que decidí hacer un master de diseño y desarrollo de videojuegos
+          en{" "}
+          <a href="https://evadformacion.com/" target="_self">
+            EVAD
+          </a>
+          , para aprender sobre todo como era la programación aplicado en los
+          videojuegos. Esta formación me enseñó muchísimo, a parte de saber lo
+          que implica crear un videojuego, me mostró que el mundo de la
+          programación hay que ser <strong>autodidacta</strong> y{" "}
+          <strong>tener muchas ganas de aprender.</strong>
+        </p>
+        <p>
+          Con el master hice una prácticas en{" "}
+          <a
+            href="https://www.linkedin.com/company/bambo-studio/about/"
+            target="_self"
+          >
+            Bambo Studio
+          </a>
+          , me enseñaron a hacer juegos móviles y la importancia de{" "}
+          <strong>diseñar una interfaz intuitiva</strong>. Y posteriormente
+          nuestro trabajo final de master tuvo la oportunidad de entrar en{" "}
+          <a href="https://www.playstationtalents.es/" target="_self">
+            Plasytation Talents
+          </a>
+          , un programa de Sony Playstation para ayudar a grupos Indies a sacar
+          adelante videojuegos. Aquí aprendí a{" "}
+          <strong>trabajar en equipo</strong> y{" "}
+          <strong>leer mucha documentación</strong>. Pero desgradaciadamente
+          tuve que abandonar el proyecto por dificultades económicas.
+        </p>
+        <p>
+          Tuve la suerte de que{" "}
+          <a
+            href="https://www.linkedin.com/company/isabellatech"
+            target="_self"
+          >
+            IsabellaTech
+          </a>{" "}
+          me contratara como diseñador Frontend para desarrollar los diseños de
+          todos los proyectos de la empresa. Durante los 2 años que estuve no
+          paré de hacer proyectos. De esta experiencia aprendí la <strong>optimización
+          del código y la escalabilidad de un proyecto, predecir tiempos y planificar tareas</strong>.
+        </p>
+
+        <h3 id="lo-que-se">Lo que sé</h3>
+        <ul>
+          <li>
+            Soy desarrollador <strong>frontend</strong>. Solía utilizar PHP,
+            porque era el idioma con el que me enseñaron a desorrollar páginas
+            web con{" "}
+            <a href="https://wordpress.com/es/" target="_self">
+              WordPress
+            </a>
+            , pero aproximadamente llevo tres años dedicados a{" "}
+            <strong>React y JavaScript.</strong>
+          </li>
+          <li>
+            Uso <strong>Git</strong> con{" "}
+            <a href="https://github.com/" target="_self">
+              GitHub
+            </a>
+            , para controlar los proyectos y a su vez para tener una
+            visualización fácil de los archivos.
+          </li>
+          <li>
+            Soy partidario en hacer un <strong>código limpio y legible</strong>.
+            Un buen código es aquel que se pueda leer como un libro sin utilizar
+            comentarios. Siempre busco lo mejor del proyecto para su{" "}
+            <strong>optimización y escalabilidad</strong>.
+          </li>
+          <li>
+            Normalmente me decanto por crear las hojas de estilo manualmente
+            con/sin{" "}
+            <a href="https://sass-lang.com/" target="_self">
+              Sass
+            </a>
+            . Pero actualmente estoy explorando{" "}
+            <a href="https://tailwindcss.com/" target="_self">
+              Tailwind
+            </a>
+            . Tengo que decir que es bastante cómodo.
+          </li>
+          <li>
+            Estoy familiarizado a conectar <strong>APIs</strong>. Es una de las
+            cosas que me enseñeraon al principio, el saber{" "}
+            <strong>conectar y controlar</strong> los datos recibidos. Cuando
+            conocí React y su <strong>Server Side Rendering</strong> explotó mi
+            cerebro.
+          </li>
+          <li>
+            Tengo experiencia con{" "}
+            <a href="https://frontity.org//" target="_self">
+              Frontity
+            </a>
+            , un framework hecho en React especialmente diseñado para WordPress.
+            El framework consume de la <strong>REST API</strong> de{" "}
+            <a href="https://wordpress.com/es/" target="_self">
+              WordPress.com
+            </a>
+            .
+          </li>
+        </ul>
+
+        <h3 id="proyectos">Algunos proyectos profesionales</h3>
+        <ul>
+          <li>
+            <a href="https://churreriaramon.es/" target="_self">
+              https://churreriaramon.es/
+            </a>
+            : Web de la churreria mas famosa de Marbella. Desarrollé el proyecto
+            junto con{" "}
+            <a href="https://felipefg.com/" target="_self">
+              Felipe
+            </a>
+            , para mejorar la marca de la churrería.
+          </li>
+          <li>
+            <a href="https://incotex.es/" target="_self">
+              https://incotex.es/
+            </a>
+            : actualización de diseño web para una empresa de extintores,
+            actualmente está algo cambiada pero sigue utilizando la estructura
+            que diseñé en su dia.
+          </li>
+          <li>
+            <a href="https://bombeosmarbella.com/" target="_self">
+              https://bombeosmarbella.com/
+            </a>
+            : diseño y desarrollo de una página web para una empresa de bombeos
+            de hormigón en Marbella.
+          </li>
+          <li>
+            <a href="https://abogadospericia.com/" target="_self">
+              https://abogadospericia.com/
+            </a>
+            : este fue otro proyecto para mejorar el diseño de una página de
+            abogados.
+          </li>
+
+          <li>
+            <a href="https://mobiliariofactory.com/" target="_self">
+              https://mobiliariofactory.com/
+            </a>
+            : proyecto de una tienda de muebles online, desarrollado en menos de
+            2 meses con mis compañeros{" "}
+            <a
+              href="https://www.linkedin.com/in/alejandro-villalobos-trujillo-38b97a163/"
+              target="_self"
+            >
+              Alejandro
+            </a>{" "}
+            y{" "}
+            <a href="https://www.linkedin.com/in/husseincak/" target="_self">
+              Hussein
+            </a>
+            .
+          </li>
+          <li>
+            <a href="https://isabellatech.es/" target="_self">
+              https://isabellatech.es/
+            </a>
+            : actualización de la página web con React que antiguamente estaba
+            con Wordpress.
+          </li>
+          <li>
+            <a href="https://www.maspropertymarbella.com/" target="_self">
+              https://www.maspropertymarbella.com/
+            </a>
+            : proyecto grande con React para una de la empresa mas ambiciosa de
+            Marbella. Tardamos mucho en hacer este proyecto porque esta empresa
+            tiene miles de propiedades, nos pedian un sistema de usuario con
+            privilegios y algunas funciones especiales.
+          </li>
+        </ul>
+
+        <h3>Lo que estoy haciendo ahora</h3>
+        <ul>
+          <li>
+            <a href="https://github.com/Hecater88/TowerDefense" target="_self">
+              https://github.com/Hecater88/TowerDefense (en proceso)
+            </a>
+            : Un tower defense 3D y 2D con Unity.
+          </li>
+          <li>
+            <a
+              href="https://github.com/Hecater88/TheHouseIsLava"
+              target="_self"
+            >
+              https://github.com/Hecater88/TheHouseIsLava (en proceso)
+            </a>
+            : Un juego en primera persona donde el suelo de tu casa es lava.
+          </li>
+        </ul>
+        <h3>Mis aficiones</h3>
+        <ul>
+          <li>Videojuegos, sobre todo en diseñar y desarrollar videojuegos.</li>
+          <li>
+            Juegos de mesa, porque humillar a tu rival en persona es mas
+            gratificante.
+          </li>
+          <li>Pesca, es un hobbie para gente tranquila como yo.</li>
+          <li>Calistenia, se puede hacer ejercicio sin gastar ni un duro.</li>
+        </ul>
+      </section>
 
       <footer>
         <div class="container-footer">
           <div class="div-row-footer">
             <ul class="ul-footer">
               <li>
-                <a
-                  href="https://github.com/Hecater88"
-                  target="_self"
-                  class="css-1y66b57 e1mdtqz72"
-                >
+                <a href="https://github.com/Hecater88" target="_self">
                   <svg
                     aria-hidden="true"
                     focusable="false"
@@ -57,11 +309,7 @@ function App() {
                 </a>
               </li>
               <li>
-                <a
-                  href="https://twitter.com/virgilionayal"
-                  target="_self"
-                  class="css-1y66b57 e1mdtqz72"
-                >
+                <a href="https://twitter.com/virgilionayal" target="_self">
                   <svg
                     aria-hidden="true"
                     focusable="false"
@@ -83,7 +331,6 @@ function App() {
                 <a
                   href="https://www.linkedin.com/in/virgilionayal/"
                   target="_self"
-                  class="css-1y66b57 e1mdtqz72"
                 >
                   <svg
                     aria-hidden="true"
