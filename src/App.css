@@ -13,14 +13,14 @@ a {
   text-decoration: none;
 }
 
-b, strong {
+b,
+strong {
   font-weight: 800;
   color: #ffffff;
 }
 section {
   width: 60rem;
   padding: 0 1.5rem;
-  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -35,11 +35,11 @@ section p {
   line-height: 1.95;
 }
 
-section ul{
+section ul {
   list-style: disc;
   margin-bottom: 1rem;
 }
-section ul li{
+section ul li {
   line-height: 1.95;
   margin: 0.5rem 0 0 2rem;
 }
@@ -124,4 +124,24 @@ section ul li{
 }
 .ul-footer li .icon {
   width: 1.5rem;
+}
+@media only screen and (max-width: 768px) {
+  section,
+  .div-row-footer,
+  .container-header {
+    width: 90%;
+  }
+  ul {
+    padding-left: 0px;
+  }
+  .container-header{
+    justify-content: left;
+  }
+  .ul-header li {
+    margin: 1rem 1rem;
+}
+  .div-row-header {
+    flex-direction: column;
+    padding: 1.5rem 0 2rem 0;
+  }
 }

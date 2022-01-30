@@ -22,12 +22,17 @@ function App() {
               </li>
               <li>
                 <a href="#lo-que-se" target="_self">
-                 Lo que sé
+                  Lo que sé
                 </a>
               </li>
               <li>
                 <a href="#proyectos" target="_self">
                   Proyectos
+                </a>
+              </li>
+              <li>
+                <a href="#contacto" target="_self">
+                  Contacto
                 </a>
               </li>
             </ul>
@@ -120,8 +125,12 @@ function App() {
           </a>{" "}
           me contratara como diseñador Frontend para desarrollar los diseños de
           todos los proyectos de la empresa. Durante los 2 años que estuve no
-          paré de hacer proyectos. De esta experiencia aprendí la <strong>optimización
-          del código y la escalabilidad de un proyecto, predecir tiempos y planificar tareas</strong>.
+          paré de hacer proyectos. De esta experiencia aprendí la{" "}
+          <strong>
+            optimización del código y la escalabilidad de un proyecto, predecir
+            tiempos y planificar tareas
+          </strong>
+          .
         </p>
 
         <h3 id="lo-que-se">Lo que sé</h3>
@@ -254,12 +263,30 @@ function App() {
             privilegios y algunas funciones especiales.
           </li>
         </ul>
+        <h3 id="contacto">Contacto</h3>
+        <ul>
+          <li>
+            <a href="mailto:virgilionayal@gmail.com" target="_self">
+              <strong>Email</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/virgilionayal/" target="_self">
+              <strong>Linkedin</strong>
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/virgilionayal" target="_self">
+              <strong>Twitter</strong>
+            </a>
+          </li>
+        </ul>
 
         <h3>Lo que estoy haciendo ahora</h3>
         <ul>
           <li>
             <a href="https://github.com/Hecater88/TowerDefense" target="_self">
-              https://github.com/Hecater88/TowerDefense (en proceso)
+              Tower Defense (en proceso)
             </a>
             : Un tower defense 3D y 2D con Unity.
           </li>
@@ -268,7 +295,7 @@ function App() {
               href="https://github.com/Hecater88/TheHouseIsLava"
               target="_self"
             >
-              https://github.com/Hecater88/TheHouseIsLava (en proceso)
+              The House Is Lava (en proceso)
             </a>
             : Un juego en primera persona donde el suelo de tu casa es lava.
           </li>
