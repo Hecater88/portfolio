@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Hecater88.github.io/portfolio",
+  "homepage": "https://hecater88.github.io/portfolio/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
-    "deply": "gh-pages -d build -r https://$GH_TOKEN@github.com/Hecater88/portfolio"
+    "deploy": "gh-pages -d build -r https://$GH_TOKEN@github.com/hecater88/portfolio"
   },
   "eslintConfig": {
     "extends": [
