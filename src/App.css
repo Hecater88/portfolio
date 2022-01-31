@@ -43,7 +43,9 @@ section ul li {
   line-height: 1.95;
   margin: 0.5rem 0 0 2rem;
 }
-
+h3 {
+  color: #ffffff;
+}
 .title {
   margin: 0;
   margin-bottom: 16px;
@@ -134,12 +136,12 @@ section ul li {
   ul {
     padding-left: 0px;
   }
-  .container-header{
+  .container-header {
     justify-content: left;
   }
   .ul-header li {
     margin: 1rem 1rem;
-}
+  }
   .div-row-header {
     flex-direction: column;
     padding: 1.5rem 0 2rem 0;

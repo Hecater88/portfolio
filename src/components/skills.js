@@ -58,8 +58,18 @@ function Skills() {
           </a>
           .
         </li>
+
+        <li>
+          He trabajado con algunos equipos y normalmente con{" "}
+          <strong>Scrum</strong>, pero puedo adaptarme a cualquier proceso de
+          trabajo.
+        </li>
       </ul>
-      <p>También tengo aptitudes para diseñar y desarrollar videojuegos, pero voy a enfocar este portfolio en mi otra rama favorita de la programación que es el Frontend.</p>
+      <p>
+        También tengo aptitudes para diseñar y desarrollar videojuegos, pero voy
+        a enfocar este portfolio en mi otra rama favorita de la programación que
+        es el Frontend.
+      </p>
     </div>
   );
 }

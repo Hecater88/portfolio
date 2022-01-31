@@ -1,7 +1,7 @@
 function CurrentProjects() {
   return (
     <div>
-      <h3>Lo que estoy haciendo ahora</h3>
+      <h3>Actualmente trabajando en</h3>
       <ul>
         <li>
           <a href="https://github.com/Hecater88/TowerDefense" target="_blank" rel="noreferrer">
@@ -20,9 +20,10 @@ function CurrentProjects() {
           <a href="https://github.com/Hecater88/portfolio" target="_blank" rel="noreferrer">
             Añadir juegos a este porfolio
           </a>
-          : Un juego en primera persona donde el suelo de tu casa es lava.
+          : Estoy experimentando si juegos hechos con Unity funcionan con React.
         </li>
       </ul>
+      <p>Estoy desarrollayando algunos juegos que tenia en la lista de hace mucho tiempo.</p>
     </div>
   );
 }

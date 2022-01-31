@@ -57,7 +57,7 @@ function Experience() {
         <a href="https://www.linkedin.com/company/isabellatech" target="_blank" rel="noreferrer">
           IsabellaTech
         </a>{" "}
-        me contratara como diseñador Frontend para desarrollar los diseños de
+        me contratara como programador Frontend para desarrollar los diseños de
         todos los proyectos de la empresa. Durante los 2 años que estuve no paré
         de hacer proyectos. De esta experiencia aprendí la{" "}
         <strong>
