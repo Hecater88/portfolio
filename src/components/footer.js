@@ -1,8 +1,8 @@
 function Footer() {
   return (
-    <div class="container-footer">
-      <div class="div-row-footer">
-        <ul class="ul-footer">
+    <div className="container-footer">
+      <div className="div-row-footer">
+        <ul className="ul-footer">
           <li>
             <a href="https://github.com/Hecater88" target="_blank" rel="noreferrer">
               <svg
@@ -10,7 +10,7 @@ function Footer() {
                 focusable="false"
                 data-prefix="fab"
                 data-icon="github"
-                class="icon"
+                className="icon"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 496 512"
@@ -29,7 +29,7 @@ function Footer() {
                 focusable="false"
                 data-prefix="fab"
                 data-icon="twitter"
-                class="icon"
+                className="icon"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 512 512"
@@ -48,7 +48,7 @@ function Footer() {
                 focusable="false"
                 data-prefix="fab"
                 data-icon="linkedin"
-                class="icon"
+                className="icon"
                 role="img"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 448 512"

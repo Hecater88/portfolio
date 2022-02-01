@@ -1,17 +1,17 @@
 function Header() {
   return (
-    <div class="container-header">
-      <div class="div-row-header">
-        <div class="div-column-header">
-          <div class="title">
+    <div className="container-header">
+      <div className="div-row-header">
+        <div className="div-column-header">
+          <div className="title">
             <h1>Programador Frontend</h1>
           </div>
-          <div class="subtitle">
+          <div className="subtitle">
             <h2>Portfolio de Virgilio Nayal</h2>
           </div>
         </div>
         <nav>
-          <ul class="ul-header" id="navigation">
+          <ul className="ul-header" id="navigation">
             <li>
               <a href="#mi-experiencia" target="_blank" rel="noreferrer">
                 Mi experiencia
