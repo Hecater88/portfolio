@@ -45,7 +45,7 @@ function Experience() {
         <strong>diseñar una interfaz intuitiva</strong>. Y posteriormente
         nuestro trabajo final de master tuvo la oportunidad de entrar en{" "}
         <a href="https://www.playstationtalents.es/" target="_blank" rel="noreferrer">
-          Plasytation Talents
+          Playstation Talents
         </a>
         , un programa de Sony Playstation para ayudar a grupos Indies a sacar
         adelante videojuegos. Aquí aprendí a <strong>trabajar en equipo</strong>{" "}
