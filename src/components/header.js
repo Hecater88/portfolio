@@ -13,22 +13,22 @@ function Header() {
         <nav>
           <ul className="ul-header" id="navigation">
             <li>
-              <a href="#mi-experiencia" target="_blank" rel="noreferrer">
+              <a href="#mi-experiencia">
                 Mi experiencia
               </a>
             </li>
             <li>
-              <a href="#lo-que-se" target="_blank" rel="noreferrer">
+              <a href="#lo-que-se">
                 Lo que sé
               </a>
             </li>
             <li>
-              <a href="#proyectos" target="_blank" rel="noreferrer">
+              <a href="#proyectos">
                 Proyectos
               </a>
             </li>
             <li>
-              <a href="#contacto" target="_blank" rel="noreferrer">
+              <a href="#contacto">
                 Contacto
               </a>
             </li>

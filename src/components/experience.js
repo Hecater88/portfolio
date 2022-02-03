@@ -1,10 +1,10 @@
 function Experience() {
   return (
     <div>
-      <h3>Mi experiencia</h3>
+      <h3>Mi trayectoria</h3>
       <p>
-        Acabé mi carrera de Sistema de Telecomunicaciones sin saber realmente a
-        qué dedicarme, en su dia eché curriculums por todos lados para encontrar
+        Salí de la carrera de Sistema de Telecomunicaciones sin saber realmente a
+        qué dedicarme. En su día eché curriculums por todos lados para encontrar
         urgentemente un trabajo, una empresa pequeñita{" "}
         <a
           href="https://www.linkedin.com/company/inmo.design/about/"
@@ -13,10 +13,10 @@ function Experience() {
           Inmo.Design
         </a>{" "}
         aceptó enseñarme a programar porque necesitaban ayuda, la empresa se
-        dedicaban a hacer páginas web para la mayoria de las inmobiliarias en
+        dedicaban a hacer páginas web para la mayoría de las inmobiliarias en
         Marbella.{" "}
         <strong>
-          Desde entonces me enamoré de la programación y supe que queria
+          Desde entonces me enamoré de la programación y supe que quería
           dedicarme a ello
         </strong>
         .

@@ -4,28 +4,27 @@ function Skills() {
       <h3>Lo que sé</h3>
       <ul>
         <li>
-          Soy desarrollador <strong>frontend</strong>. Solía utilizar PHP,
-          porque era el idioma con el que me enseñaron a desorrollar páginas web
-          con{" "}
+          Se desarrollar páginas web, temas y plugins complejos de{" "}
           <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
             WordPress
           </a>
-          , pero aproximadamente llevo tres años dedicados a{" "}
-          <strong>React y JavaScript.</strong>
+          con PHP.
         </li>
         <li>
-          Uso <strong>Git</strong> con{" "}
+          Como desarrollador <strong>frontend</strong> llevo dos años
+          programando con <strong>React en JavaScript</strong>.
+        </li>
+        <li>
+        Para control de versiones uso <strong>Git</strong> con{" "}
           <a href="https://github.com/" target="_blank" rel="noreferrer">
             GitHub
-          </a>
-          , para controlar los proyectos y a su vez para tener una visualización
-          fácil de los archivos.
+          </a>.
         </li>
         <li>
-          Soy partidario en hacer un <strong>código limpio y legible</strong>.
-          Un buen código es aquel que se pueda leer como un libro sin utilizar
-          comentarios. Siempre busco lo mejor del proyecto para su{" "}
-          <strong>optimización y escalabilidad</strong>.
+        Uso Sass para las hojas de estilo. Suelo trabajar sin frameworks aunque actualmente estoy explorando la nueva versión de{" "}
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            Tailwind
+          </a>.
         </li>
         <li>
           Normalmente me decanto por crear las hojas de estilo manualmente
@@ -34,9 +33,7 @@ function Skills() {
             Sass
           </a>
           . Pero actualmente estoy explorando{" "}
-          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-            Tailwind
-          </a>
+         
           . Tengo que decir que es bastante cómodo.
         </li>
         <li>
