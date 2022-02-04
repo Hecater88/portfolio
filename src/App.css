@@ -1,14 +1,14 @@
 body {
-  background: #FBFFF1;
+  background: #fbfff1;
   box-sizing: border-box;
-  color: #3C3744;
+  color: #3c3744;
   font-family: "Roboto Mono", monospace;
   letter-spacing: -0.015em;
   line-height: 1.5;
 }
 
 a {
-  color: #3D52D5;
+  color: #3d52d5;
   -webkit-text-decoration: underline;
   text-decoration: none;
 }
@@ -44,14 +44,13 @@ section ul li {
   margin: 0.5rem 0 0 2rem;
 }
 h3 {
-  color: #090C9B;
-  ;
+  color: #090c9b;
 }
 .title {
   margin: 0;
   margin-bottom: 16px;
   width: 100%;
-  color:#090C9B;
+  color: #090c9b;
 }
 .title h2 {
   font-size: 1.625rem;
@@ -60,7 +59,7 @@ h3 {
 }
 
 .subtitle {
-  color: #3D52D5;
+  color: #3d52d5;
 }
 
 .container-header {
@@ -97,14 +96,14 @@ h3 {
 }
 
 .ul-header li a {
-  color: #3C3744;
+  color: #3c3744;
   border-radius: 3px;
-  background-color: #B4C5E4;
+  background-color: #b4c5e4;
   padding: 0.5rem 0.8rem;
   font-weight: 800;
 }
 .container-footer {
-  background: #16161d;
+  background: #3C3744;
   margin-top: 5rem;
 }
 .div-row-footer {
@@ -129,6 +128,7 @@ h3 {
 }
 .ul-footer li .icon {
   width: 1.5rem;
+  color: #FBFFF1;
 }
 @media only screen and (max-width: 768px) {
   section,

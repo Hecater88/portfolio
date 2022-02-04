@@ -18,7 +18,7 @@ function AboutUs() {
           React
         </a>
         , que es una librería de JavaScript para crear interfaces de usuario de
-        forma sencilla. Soy partidario en hacer un <stron>código limpio y legible</stron>. Un
+        forma sencilla. Soy partidario en hacer un <strong>código limpio y legible</strong>. Un
         buen código es aquel que se pueda leer como un libro sin utilizar
         comentarios. Siempre busco lo mejor del proyecto para su <strong>optimización y
         escalabilidad</strong>.

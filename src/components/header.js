@@ -14,7 +14,7 @@ function Header() {
           <ul className="ul-header" id="navigation">
             <li>
               <a href="#mi-experiencia">
-                Mi experiencia
+                Mi trayectoria
               </a>
             </li>
             <li>
