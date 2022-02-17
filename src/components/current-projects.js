@@ -5,7 +5,7 @@ function CurrentProjects() {
       <ul>
         <li>
           <a href="https://hecater88.github.io/Guguel-Map/" target="_blank" rel="noreferrer">
-            Guguel Maps
+            Guguel Maps (en proceso)
           </a>
           : Estoy haciendo mi propio Tripadvisor/Gooogle Maps en React con solo las funcionalidades que deseo.
         </li>
@@ -24,7 +24,7 @@ function CurrentProjects() {
 
         <li>
           <a href="https://github.com/Hecater88/portfolio" target="_blank" rel="noreferrer">
-            Añadir juegos a este portfolio
+            Añadir juegos a este portfolio (en proceso)
           </a>
           : Estoy experimentando si juegos hechos con Unity funcionan con React.
         </li>
