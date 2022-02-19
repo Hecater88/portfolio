@@ -4,7 +4,7 @@ function CurrentProjects() {
       <h3>Actualmente trabajando en</h3>
       <ul>
         <li>
-          <a href="https://hecater88.github.io/Guguel-Map/" target="_blank" rel="noreferrer">
+          <a href="https://virgilios-guguel-maps.netlify.app/" target="_blank" rel="noreferrer">
             Guguel Maps (en proceso)
           </a>
           : Estoy haciendo mi propio Tripadvisor/Gooogle Maps en React con solo las funcionalidades que deseo.
