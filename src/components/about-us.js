@@ -7,7 +7,7 @@ function AboutUs() {
         programador Frontend desde 2017. Tengo 27 años y{" "}
         <strong>
           mi objetivo es poder dedicarme a la programación a tiempo completo y
-          formarme continuamente a para estar siempre al tanto de nuevas
+          formarme continuamente para estar siempre al tanto de nuevas
           tecnologías y herramientas de trabajo.
         </strong>
       </p>

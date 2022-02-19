@@ -29,7 +29,7 @@ function CurrentProjects() {
           : Estoy experimentando si juegos hechos con Unity funcionan con React.
         </li>
       </ul>
-      <p>Estoy desarrollayando algunos juegos que tenia en la lista de hace mucho tiempo.</p>
+      <p>Estoy desarrollando algunos juegos que tenía en la lista de hace mucho tiempo.</p>
     </div>
   );
 }
