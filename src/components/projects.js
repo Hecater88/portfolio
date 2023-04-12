@@ -22,33 +22,6 @@ function Projects() {
           </a>
           : otra actualización a React para la web de la empresa IsabellaTech.
         </li>
-
-        <li>
-          <a
-            href="https://mobiliariofactory.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            https://mobiliariofactory.com/
-          </a>
-          : tienda de muebles online, desarrollado junto a mis compañeros{" "}
-          <a
-            href="https://www.linkedin.com/in/alejandro-villalobos-trujillo-38b97a163/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Alejandro
-          </a>{" "}
-          y{" "}
-          <a
-            href="https://www.linkedin.com/in/husseincak/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Hussein
-          </a>
-          .
-        </li>
         <li>
           <a
             href="https://bombeosmarbella.com/"
