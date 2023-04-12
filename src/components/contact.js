@@ -13,11 +13,6 @@ function Contact() {
             <strong>Linkedin</strong>
           </a>
         </li>
-        <li>
-          <a href="https://twitter.com/virgilionayal" target="_blank" rel="noreferrer">
-            <strong>Twitter</strong>
-          </a>
-        </li>
       </ul>
     </div>
   );

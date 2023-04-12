@@ -4,15 +4,21 @@ function Skills() {
       <h3>Lo que sé</h3>
       <ul>
         <li>
-          Se desarrollar páginas web, temas y plugins complejos de{" "}
+          Se desarrollar páginas web, temas y plugins de{" "}
           <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
             WordPress
           </a>{" "}
           con PHP.
         </li>
         <li>
-          Como desarrollador <strong>frontend</strong> llevo dos años
-          programando con <strong>React en JavaScript</strong>.
+          Como desarrollador <strong>frontend</strong> llevo cuatro años
+          programando con <strong>React.js</strong>.
+        </li>
+        <li>
+       Sé hacer test unitarios con {" "}
+          <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+            Jest
+          </a>
         </li>
         <li>
           Para control de versiones uso <strong>Git</strong> con{" "}
@@ -25,7 +31,7 @@ function Skills() {
           Uso{" "}
           <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
             Sass
-          </a>
+          </a>{" "}
           para las hojas de estilo. Suelo trabajar sin frameworks aunque
           actualmente estoy explorando la nueva versión de{" "}
           <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -43,17 +49,22 @@ function Skills() {
           trabajo.
         </li>
         <li>
-          Mi experiencia principal es con {" "}
+         Tengo experiencia con {" "}
           <a href="https://frontity.org//" target="_blank" rel="noreferrer">
             Frontity
           </a>
           , un framework hecho en React especialmente diseñado para WordPress.
-          El framework consume de la<strogn>REST API </strogn>del temaWordPress
-          que se esté utilizando.
         </li>
-
         <li>
-          También tengo aptitudes para diseñar y desarrollar videojuegos, pero
+         También estoy muy familiarizado con{" "}
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            Next.js
+          </a>
+          , un framework de React que te ayuda a hacer aplicaciones muy rápidas. 
+          Puede mostrar páginas del lado del servidor o generarlas estáticamente.
+        </li>
+        <li>
+          Tengo aptitudes para diseñar y desarrollar videojuegos, pero
           voy a enfocar este portfolio en mi otra rama favorita de la
           programación que es el Frontend.
         </li>

@@ -65,6 +65,19 @@ function Experience() {
           </strong>
           .
         </li>
+        <li>
+          Mi último trabajo fue en{" "}
+          <a
+            href="https://www.https://www.iflastmile.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            if Lastmile
+          </a>{" "}
+          aquí trabajé también como programador Frontend ayudando a desarrollar su aplicación interna y la 
+          aplicación para sus clientes, <strong>los mentores me ayudaron muchísimo en mejorar mis habilidades 
+          de frontend</strong>, también aprendí habilidades de fullstack {"(Amazon Web Services (AWS), Node.js.)"}
+        </li>
       </ul>
     </div>
   );

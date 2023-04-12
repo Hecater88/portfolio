@@ -13,12 +13,7 @@ function AboutUs() {
       </p>
 
       <p>
-        Este sitio está hecho con{" "}
-        <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
-          React
-        </a>
-        , que es una librería de JavaScript para crear interfaces de usuario de
-        forma sencilla. Soy partidario en hacer un <strong>código limpio y legible</strong>. Un
+        Soy partidario en hacer un <strong>código limpio y legible</strong>. Un
         buen código es aquel que se pueda leer como un libro sin utilizar
         comentarios. Siempre busco lo mejor del proyecto para su <strong>optimización y
         escalabilidad</strong>.
