@@ -4,7 +4,7 @@ function Skills() {
 			<h3>Lo que sé</h3>
 			<ul>
 				<li>
-					Se desarrollar páginas web, temas y plugins de{" "}
+					Sé desarrollar páginas web, temas y plugins de{" "}
 					<a href="https://wordpress.com/es/" target="_blank" rel="noreferrer">
 						WordPress
 					</a>{" "}
